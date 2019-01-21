@@ -2,5 +2,9 @@
     <string name="app_name">Magic Eight Ball</string>
     <string name="btn_Name">Ask!</string>
     <string name="tView">Make everyday decisions easier!</string>
-    <string name="img_ip">img_Cha</string>
+    <string name="img_Cha">img_Cha</string>
+    <string name="ballTwo">ball2</string>
+    <string name="ballThree">ball3</string>
+    <string name="ballFour">ball4</string>
+    <string name="ballFive">ball5</string>
 </resources>
